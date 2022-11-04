@@ -1,5 +1,4 @@
 # pdf_to_CSV
-Extract infor from pdf
-
+Extract information from pdf
 
 Use of the 
